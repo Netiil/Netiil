@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=오승원의%20코드공간)
 
 ### Hi there 👋
 
