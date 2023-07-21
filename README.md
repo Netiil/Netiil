@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=오승원의%20코드공간)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=오승원의%20코드일기)
 
 ### Hi there 👋
 
